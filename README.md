@@ -18,7 +18,8 @@ This repo is meant to serve as a point of reference for anyone wanting to organi
 Check out pictures taken during the event by volunteers Dieter and Ava [here](https://drive.google.com/drive/u/0/folders/1FUvhTYZIhmkcrb2zk91doqiVxjif_wMb)!
 
 {
-
+|-----|-------------------------------------------------------------------------|
+|🕹️ Sprig | [The Fiasco](sprigworkshop.md) |
 Our special approach to worshops ~Reva/Andrea
 
 
